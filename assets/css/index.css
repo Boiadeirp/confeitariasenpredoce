@@ -16,7 +16,18 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-
+.link-admin{
+    text-decoration: none;
+    position: absolute;
+    right: 0;
+    color: #fd8700;
+    padding-right: 10px;
+}
+.link-admin :hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
 .logo{
  width: 0;       
 }
